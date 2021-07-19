@@ -1,0 +1,7 @@
+td.details-control {
+  background: url('../img/angle_right.svg') no-repeat center center;
+  cursor: pointer;
+}
+tr.details td.details-control {
+  background: url('../img/angle_down.svg') no-repeat center center;
+}
